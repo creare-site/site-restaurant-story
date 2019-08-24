@@ -1,6 +1,6 @@
-# [Creare Site Story](https://site-restaurant-story.websitemarket.ro/)
+# [Site Restaurant Story](https://site-restaurant-story.websitemarket.ro/)
 
-Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
+Site de prezentare **restaurant**, un produs [WebsiteMarket](https://websitemarket.ro)
 
 <br />
 
@@ -43,4 +43,4 @@ Prin Email **hello [@ ] websitemarket.ro** sau pe LIVE chat-ul [Discord](https:/
 <br />
 
 ---
-[Creare Site Story](https://site-restaurant-story.websitemarket.ro/) un produs **WebsiteMarket**
+[Site Restaurant Story](https://site-restaurant-story.websitemarket.ro/) un produs **WebsiteMarket**
