@@ -1,0 +1,17 @@
+{
+    "copy"           : "WebsiteMarket - Site Restaurant", 
+    "email"          : "hello@websitemarket.ro",
+    "phone"          : "+40.766.611.222",
+    "address"        : "Bucuresti, Titan, Nr. 5",
+    "design"         : "Story by Pixelarity",
+
+    "seo_title"      : "Site Restaurant - Design Story | WebsiteMarket",
+    "seo_desc"       : "Website de prezentare restaurant, cu un design modern. Un produs Websitemarket",
+
+    "product"        : "https://websitemarket.ro/", 
+    "github"         : "https://github.com/creare-site/site-restaurant-story",
+    "facebook"       : "https://facebook.com/websitemarketro",
+    "twitter"        : "https://twitter.com/websitemarketro",
+
+    "LAST_KEY" : "NA"
+}
